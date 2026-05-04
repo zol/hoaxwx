@@ -7,6 +7,7 @@ The page currently displays:
 - Point Nepean
 - Point Lonsdale
 - Hovell Pile
+- Flinders
 
 Each dashboard is embedded as a full-width iframe and stacked vertically on the page.
 
